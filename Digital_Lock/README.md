@@ -1,3 +1,5 @@
+# Secure Saiyan
+
 ## Introduction
 
 Introducing Secure Saiyan, our digital lock system. This innovative security solution allows users to input their unique passcode via the keypad, which is processed by the VSD Squadron Mini to verify entry authorization. Upon correct code entry, the VSD Squadron Mini activates the servo motor, rotating the door handle to unlock the door. This system ensures not only security but also offers ease of use, making it suitable for various settings.
