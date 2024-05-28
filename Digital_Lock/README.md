@@ -11,4 +11,4 @@
 - Jumper Wires
 
 **Circuit Diagram**
-[Circuit Diagram]!(Downloads/Circuit.png)
+![Circuit Diagram](/home/rohit/Downloads/Circuit.png)
