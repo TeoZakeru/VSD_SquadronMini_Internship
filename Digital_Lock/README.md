@@ -1,8 +1,8 @@
-**Introduction**
+## Introduction
 
-**Overview**
+## Overview
 
-**Components required**
+## Components required
 - VSD Squadron Mini
 - 4x4 Matrix Keypad
 - Servo Motor
@@ -10,7 +10,7 @@
 - Breadboard
 - Jumper Wires
 
-**Circuit Diagram**
+## Circuit Diagram
 
 ![Circuit Diagram](images/Circuit.png)
 
