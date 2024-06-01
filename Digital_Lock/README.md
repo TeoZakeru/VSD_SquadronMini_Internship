@@ -521,5 +521,6 @@ int main(void) {
 ```
 
 ## Demo Video
-https://github.com/TeoZakeru/VSD_SquadronMini_Internship/assets/130887983/5ba518fa-39c8-4106-a5a1-68947cd9b3ae
+
+https://github.com/TeoZakeru/VSD_SquadronMini_Internship/assets/130887983/11d97a7e-0fed-400c-addc-bac52664c36c
 
