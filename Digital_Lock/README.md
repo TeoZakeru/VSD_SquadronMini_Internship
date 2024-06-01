@@ -517,3 +517,7 @@ int main(void) {
 }
 ```
 
+## Demo Video
+
+![Demo Video](assets/videos/demo.mp4)
+
